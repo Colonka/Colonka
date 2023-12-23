@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я обучаюсь и по сей день. В данный момент инженер-технолог в области нефтегазопереработки. В поисках первой работы в it.
+Я backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Студент Школы 21 от Сбера.
 
 - :telescope: Студент Школы 21 от Сбера.
 
