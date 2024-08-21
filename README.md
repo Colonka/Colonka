@@ -8,6 +8,7 @@
 Я backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 - :telescope: Студент Школы 21 от Сбера (https://21-school.ru/).
+- - :telescope: Разработчик ПО в компании ООО "СОФТКОМ" (https://softcom.su/index.html).
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-EvgeniiMasterov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Colonka1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:evmast96@gmail.com)
 
