@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 - :telescope: Студент Школы 21 от Сбера (https://21-school.ru/).
 - ### :man_technologist: Разработчик ПО в компании ООО "СОФТКОМ" (https://softcom.su/index.html).
